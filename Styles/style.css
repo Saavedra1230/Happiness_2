@@ -685,7 +685,7 @@ footer {
     }
 
     .Numbers {
-        top: 1120px;
+        top: 1200px;
         margin: 10%;
         width: auto;
 
@@ -723,7 +723,7 @@ footer {
         }
 
         h4 {
-            font-size: 85px;
+            font-size: 75px;
         }
 
         .Hapiness_2 {
@@ -753,9 +753,9 @@ footer {
         }
     }
 
-    Our {
+.Our {
         flex-direction: column;
-        height: 140vh;
+        height: 100vh;
 
         .imagen_5 {
             width: 80%;
@@ -767,10 +767,14 @@ footer {
             width: 90%;
         }
 
+        h4{
+            line-height: 80px;
+        }
+
     }
 
     .try {
-        height: 120vh;
+        height: 90vh;
 
         h2 {
             width: 100%;
